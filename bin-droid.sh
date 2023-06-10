@@ -1,5 +1,6 @@
 #! bin/bash
 
+chmod 777 bin-droid.sh
 clear
 setterm -foreground green
 cat android.txt
